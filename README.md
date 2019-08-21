@@ -1,5 +1,3 @@
-# blog-test
-
 # Sakura
 
 我叫孙笑川，恰饭皇帝
